@@ -19,7 +19,7 @@
 }
 
 .todo .content{
-    flex: 1 1 100%;
+    flex: 1 1 100%; 
 }
 
 .todo.done .content{
