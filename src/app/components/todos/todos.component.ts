@@ -18,19 +18,19 @@ export class TodosComponent implements OnInit {
 
     this.todos = [
       {
-        content: 'First Todo',
+        content: 'Pick my Daughter from school',
         completed: true
       },
       {
-        content: 'Second Todo',
+        content: 'Take my Dog for a walk',
         completed: false
       },
       {
-        content: 'Third Todo',
+        content: 'Make dinner',
         completed: false
       },
       {
-        content: 'Fourth Todo',
+        content: 'Go to the Gym',
         completed: true
       }
     ];
