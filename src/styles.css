@@ -7,3 +7,8 @@
 
     font-family: sans-serif;
 }
+
+button.btn-success {
+    padding-right: 30px;
+    margin-right: 10px;
+}
